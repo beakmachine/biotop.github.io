@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Persons on Biotop</title>
+    <link>http://biotop.co/person/</link>
+    <description>Recent content in Persons on Biotop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 03 Jun 2016 09:35:42 +0100</lastBuildDate>
+    <atom:link href="http://biotop.co/person/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Niko Popitsch</title>
+      <link>http://biotop.co/person/niko_popitsch/</link>
+      <pubDate>Fri, 03 Jun 2016 09:35:42 +0100</pubDate>
+      
+      <guid>http://biotop.co/person/niko_popitsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Vasquez-Lopez</title>
+      <link>http://biotop.co/person/sebastian_vasquezlopez/</link>
+      <pubDate>Wed, 01 Jun 2016 11:00:15 +0100</pubDate>
+      
+      <guid>http://biotop.co/person/sebastian_vasquezlopez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Erlich</title>
+      <link>http://biotop.co/person/alexander_erlich/</link>
+      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
+      
+      <guid>http://biotop.co/person/alexander_erlich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kilian Rieder</title>
+      <link>http://biotop.co/person/kilian_rieder/</link>
+      <pubDate>Wed, 01 Jun 2016 10:59:31 +0100</pubDate>
+      
+      <guid>http://biotop.co/person/kilian_rieder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georg Fattinger</title>
+      <link>http://biotop.co/person/georg_fattinger/</link>
+      <pubDate>Wed, 01 Jun 2016 10:59:11 +0100</pubDate>
+      
+      <guid>http://biotop.co/person/georg_fattinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ylli Qerkini</title>
+      <link>http://biotop.co/person/ylli_qerkini/</link>
+      <pubDate>Wed, 01 Jun 2016 10:59:01 +0100</pubDate>
+      
+      <guid>http://biotop.co/person/ylli_qerkini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korab Qerkini</title>
+      <link>http://biotop.co/person/korab_qerkini/</link>
+      <pubDate>Wed, 01 Jun 2016 10:58:53 +0100</pubDate>
+      
+      <guid>http://biotop.co/person/korab_qerkini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josef Ehgarter</title>
+      <link>http://biotop.co/person/josef_ehgarter/</link>
+      <pubDate>Wed, 01 Jun 2016 10:58:42 +0100</pubDate>
+      
+      <guid>http://biotop.co/person/josef_ehgarter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Köferle</title>
+      <link>http://biotop.co/person/anna_koeferle/</link>
+      <pubDate>Tue, 31 May 2016 23:34:07 +0100</pubDate>
+      
+      <guid>http://biotop.co/person/anna_koeferle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lukas Hutter</title>
+      <link>http://biotop.co/person/lukas_hutter/</link>
+      <pubDate>Tue, 31 May 2016 20:38:16 +0100</pubDate>
+      
+      <guid>http://biotop.co/person/lukas_hutter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
